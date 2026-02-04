@@ -143,7 +143,7 @@
     <div class="love-msg">Happy Birthday, My Jaan! ❤️</div>
     <p class="sub-msg">Sabse Pyare Phool Mere Sabse Pyare Insaan Ke Liye! 💐🍫✨</p>
     
-    <a href="index.html" style="color: white; font-weight: bold; text-decoration: none; border: 1px solid white; padding: 10px 20px; border-radius: 20px; margin-top: 30px; background: rgba(0,0,0,0.4);">← Firse Ghumna Chahogyi 💐 </a>
+    <a href="index.jsp" style="color: white; font-weight: bold; text-decoration: none; border: 1px solid white; padding: 10px 20px; border-radius: 20px; margin-top: 30px; background: rgba(0,0,0,0.4);">← Firse Ghumna Chahogyi 💐 </a>
 </div>
 
 <script>
@@ -196,3 +196,4 @@
 
 </body>
 </html>
+
