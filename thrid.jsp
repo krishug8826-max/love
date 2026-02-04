@@ -126,9 +126,9 @@
     HAPPY BIRTHDAY MY LOVE, hamesha aise hi khush rehna or mere saath rehkar meri life ko aur best banate rehna.<br>
     <strong>I LOVE YOU MY LITTLE PRINCESS. ❤️</strong>   
 </div>
-
-</div>
 <button class="btn-gift" onclick="showGiftPage()">Aapka Gift ❤️</button>
+</div>
+
 
 <div id="section-gift-page">
     <div id="gift-closed" onclick="finalMagic()">
@@ -196,4 +196,5 @@
 
 </body>
 </html>
+
 
